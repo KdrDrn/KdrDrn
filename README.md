@@ -12,6 +12,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:steadysam32@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@steadysam32)
 [![website](https://img.shields.io/badge/%20-kaggle-black?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
+[![Linkedin: VPA](https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KdrDrn" alt="KdrDrn" /> </p>
 
 
