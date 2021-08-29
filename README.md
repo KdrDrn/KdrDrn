@@ -1,8 +1,8 @@
 ## Hi there. I'm Kadir...👋
 
 
-- 🔭 I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
-- 🌱 I’m currently learning data visualization tools (Matplotlib | Seaborn)
+- 🔭 I’m currently working on Tableau
+- 🌱 I’m currently learning Tableau
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
