@@ -12,7 +12,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdr-drn/)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@steadysam32)
 [![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
-[![website](https://img.shields.io/badge/%20-tableau-white?&style=for-the-badge&logoColor=black)](https://public.tableau.com/app/profile/kadir.duran/)
+[![website](https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png)](https://public.tableau.com/app/profile/kadir.duran/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KdrDrn" alt="KdrDrn" /> </p>
 
 
