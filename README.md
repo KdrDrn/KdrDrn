@@ -1,8 +1,8 @@
 ## Hi there. I'm Kadir...👋
 
 
-- 🔭 I’m currently working on Tableau
-- 🌱 I’m currently learning Tableau
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
