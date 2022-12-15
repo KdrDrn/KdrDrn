@@ -1,4 +1,4 @@
-## Hi there. I'm Kadir...👋
+## Hi there. I'm Sam...👋
 
 
 - 🔭 I’m currently working on Machine Learning
